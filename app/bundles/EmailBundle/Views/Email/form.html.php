@@ -296,7 +296,7 @@ if ((empty($updateSelect) && !$isExisting && !$view['form']->containsErrors($for
             'typeOneDescription' => 'mautic.email.type.template.description',
             'typeOneOnClick'     => "Mautic.selectEmailType('template');",
             'typeTwoHeader'      => 'mautic.email.type.list.header',
-            'typeTwoIconClass'   => 'fa-pie-chart',
+            'typeTwoIconClass'   => 'fa-ravelry',
             'typeTwoDescription' => 'mautic.email.type.list.description',
             'typeTwoOnClick'     => "Mautic.selectEmailType('list');",
         ]);

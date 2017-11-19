@@ -310,7 +310,7 @@ return [
                     'priority'  => 75,
                 ],
                 'mautic.lead.list.menu.index' => [
-                    'iconClass' => 'fa-pie-chart',
+                    'iconClass' => 'fa-ravelry',
                     'access'    => ['lead:leads:viewown', 'lead:leads:viewother'],
                     'route'     => 'mautic_segment_index',
                     'priority'  => 70,
