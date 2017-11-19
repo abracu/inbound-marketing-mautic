@@ -645,7 +645,7 @@ body > #app-wrapper {
 }
 .app-sidebar .nav-sidebar > .nav > li.open > a .icon,
 .app-sidebar .nav-sidebar > .nav > li.active > a .icon {
-  color: #fdb933;
+  color: 00bbad;
 }
 .app-sidebar .nav-sidebar > .nav > li > .nav-submenu {
   position: relative;
@@ -675,7 +675,7 @@ body > #app-wrapper {
   border-radius: 7px;
 }
 .app-sidebar .nav-sidebar > .nav > li > .nav-submenu > li.active:after {
-  background-color: #fdb933 !important;
+  background-color: 00bbad !important;
 }
 .app-sidebar .nav-sidebar > .nav > li > .nav-submenu > li > a {
   display: block;
@@ -1209,7 +1209,7 @@ a.text-success.dark-lg:hover {
   color: #000000;
 }
 .text-warning {
-  color: #fdb933;
+  color: 00bbad;
 }
 a.text-warning:hover {
   color: #fba702;
@@ -1335,7 +1335,7 @@ blockquote > p:after {
   color: #00b49c;
 }
 .btn.btn-outline.btn-warning {
-  color: #fdb933;
+  color: 00bbad;
 }
 .btn.btn-outline.btn-danger {
   color: #f86b4f;
@@ -1400,7 +1400,7 @@ blockquote > p:after {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  background: #fdb933 !important;
+  background: 00bbad !important;
 }
 .content-body .cke_chrome {
   background: #f8f8f8;
@@ -1818,7 +1818,7 @@ ul.dropdown-menu-form {
   background-color: #35b4b9;
 }
 .bullet.bullet-warning {
-  background-color: #fdb933;
+  background-color: 00bbad;
 }
 .bullet.bullet-danger {
   background-color: #f86b4f;
@@ -1856,7 +1856,7 @@ ul.dropdown-menu-form {
 }
 .mautic-brand > svg.mautic-logo-figure .m,
 .mautic-brand > svg.mautic-logo-figure .m-arrow {
-  fill: #fdb933;
+  fill: 00bbad;
 }
 .mautic-brand > svg.mautic-logo-text {
   height: 60px;
@@ -2229,13 +2229,13 @@ label {
 .radio.custom-warning label input + span:after,
 .checkbox-inline.custom-warning label input + span:after,
 .radio-inline.custom-warning label input + span:after {
-  background-color: #fdb933;
+  background-color: 00bbad;
 }
 .checkbox.custom-warning label input:checked + span,
 .radio.custom-warning label input:checked + span,
 .checkbox-inline.custom-warning label input:checked + span,
 .radio-inline.custom-warning label input:checked + span {
-  border: 1px solid #fdb933;
+  border: 1px solid 00bbad;
 }
 .checkbox.custom-warning label:hover input + span,
 .radio.custom-warning label:hover input + span,
@@ -2247,7 +2247,7 @@ label {
 .radio.custom-warning label:hover input:checked + span,
 .checkbox-inline.custom-warning label:hover input:checked + span,
 .radio-inline.custom-warning label:hover input:checked + span {
-  border: 1px solid #fdb933;
+  border: 1px solid 00bbad;
 }
 .checkbox.custom-danger label input + span:after,
 .radio.custom-danger label input + span:after,
@@ -2481,7 +2481,7 @@ ul.line-legend li {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-warning {
-  background-color: #fdb933;
+  background-color: 00bbad;
 }
 .progress-striped .progress-bar-warning {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
@@ -2743,11 +2743,11 @@ ul.line-legend li {
   border-color: #00b49c;
 }
 .switch.switch-warning input:checked + .switch {
-  border-color: #fdb933;
-  box-shadow: inset 0 0 0 0.6em #fdb933;
+  border-color: 00bbad;
+  box-shadow: inset 0 0 0 0.6em 00bbad;
 }
 .switch.switch-warning input:checked + .switch:after {
-  border-color: #fdb933;
+  border-color: 00bbad;
 }
 .switch.switch-danger input:checked + .switch {
   border-color: #f86b4f;
@@ -3166,7 +3166,7 @@ ul.line-legend li {
   border-color: #278689 !important;
 }
 .bg-warning {
-  background-color: #fdb933 !important;
+  background-color: 00bbad !important;
   border-color: #fdb424 !important;
   color: #ffffff !important;
 }

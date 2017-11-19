@@ -237,7 +237,7 @@ ul.tag-cloud li {
     float:left;
 }
 .panel-companies .primary {
-    color: #fdb933;
+    color: 00bbad;
 }
 .building::before {
     content: "\f1ad";

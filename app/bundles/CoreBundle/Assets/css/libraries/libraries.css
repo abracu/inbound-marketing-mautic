@@ -2923,8 +2923,8 @@ fieldset[disabled] .btn-info.active {
 }
 .btn-warning {
   color: #ffffff;
-  background-color: #fdb933;
-  border-color: #fdb933;
+  background-color: 00bbad;
+  border-color: 00bbad;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -2949,8 +2949,8 @@ fieldset[disabled] .btn-warning:hover,
 .btn-warning.disabled:focus,
 .btn-warning[disabled]:focus,
 fieldset[disabled] .btn-warning:focus {
-  background-color: #fdb933;
-  border-color: #fdb933;
+  background-color: 00bbad;
+  border-color: 00bbad;
 }
 .btn-warning.disabled:active,
 .btn-warning[disabled]:active,
@@ -2961,7 +2961,7 @@ fieldset[disabled] .btn-warning.active {
   background-color: #fdb21f;
 }
 .btn-warning .badge {
-  color: #fdb933;
+  color: 00bbad;
   background-color: #ffffff;
 }
 .btn-warning + .dropdown-toggle {
@@ -4510,7 +4510,7 @@ a.label:focus {
   background-color: #2a8d91;
 }
 .label-warning {
-  background-color: #fdb933;
+  background-color: 00bbad;
 }
 .label-warning[href]:hover,
 .label-warning[href]:focus {
@@ -4804,7 +4804,7 @@ a.thumbnail.active {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-warning {
-  background-color: #fdb933;
+  background-color: 00bbad;
 }
 .progress-striped .progress-bar-warning {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
@@ -5326,14 +5326,14 @@ a.list-group-item-danger.active:focus {
 }
 .panel-warning > .panel-heading {
   color: #ffffff;
-  background-color: #fdb933;
+  background-color: 00bbad;
   border-color: rgba(0, 0, 0, 0.03);
 }
 .panel-warning > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: rgba(0, 0, 0, 0.03);
 }
 .panel-warning > .panel-heading .badge {
-  color: #fdb933;
+  color: 00bbad;
   background-color: #ffffff;
 }
 .panel-warning > .panel-heading svg text {

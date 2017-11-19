@@ -5297,7 +5297,7 @@ div[data-slot-focus] {
 div[data-section-focus] {
   content: '';
   position: absolute;
-  border: 1px solid #fdb933;
+  border: 1px solid 00bbad;
 }
 div[data-section-focus="top"] {
   left: 0px;

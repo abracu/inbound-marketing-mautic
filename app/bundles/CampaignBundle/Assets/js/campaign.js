@@ -530,13 +530,13 @@ Mautic.campaignEndpointDefinitions = {
     },
     'leadSourceLeft': {
         anchors: [0, 0.5, -1, 0, -1, 0],
-        connectorColor: '#fdb933',
+        connectorColor: '00bbad',
         isTarget: true,
         connectorStyle: 'Straight'
     },
     'leadSourceRight': {
         anchors: [1, 0.5, 1, 0, 1, 0],
-        connectorColor: '#fdb933',
+        connectorColor: '00bbad',
         isTarget: false,
         connectorStyle: 'Straight'
     }
