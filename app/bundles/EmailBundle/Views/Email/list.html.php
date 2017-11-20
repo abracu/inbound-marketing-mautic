@@ -140,7 +140,7 @@ if ($tmpl == 'index') {
                                 <span data-toggle="tooltip" title="<?php echo $view['translator']->trans(
                                         'mautic.email.icon_tooltip.list_email'
                                     ); ?>">
-                                    <i class="fa fa-fw fa-pie-chart"></i>
+                                    <i class="fa fa-fw fa-ravelry"></i>
                                 </span>
                                 <?php endif; ?>
                                 <?php echo $view['content']->getCustomContent('email.name', $mauticTemplateVars); ?>
